@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+#ball1{
+  width:30px;
+  height: 30px;
+  background: url("black.jpg") no-repeat;
+}
+#ball2{
+  width:30px;
+  height: 30px;
+  background: url("red.jpg") no-repeat;
+}
+#ball3{
+  width:30px;
+  height: 30px;
+  background: url("blue.jpg") no-repeat;
+}
